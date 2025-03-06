@@ -1,0 +1,20 @@
+{
+    "Invoice Number": "9118",
+    "Invoice Date": "16-Feb-21",
+    "Customer Name": "ABC Enterprises",
+    "Customer Address": "123 Random Street, City, Country",
+    "Purchased Items": [
+        {
+            "Item Name": "Item XYZ",
+            "Quantity": 4,
+            "Rate": 4539.55,
+            "Amount": 18158.2
+        }
+    ],
+    "CGST": 320.62,
+    "SGST": 320.62,
+    "Taxable Value": 18158.2,
+    "Total Amount": 18799.440000000002,
+    "Amount Chargeable (in words)": "INR 7028 Only",
+    "Tax Amount (in words)": "INR 394 Only"
+}
