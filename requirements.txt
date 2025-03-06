@@ -1,0 +1,7 @@
+
+paddlepaddle
+paddleocr
+transformers
+torch
+pandas
+Pillow
