@@ -163,20 +163,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Future Improvements
-
-- **Multi-Language Support**: Currently, the project is limited to invoices in English. The OCR model supports multiple languages, and adding additional language models could enable multi-language invoice parsing.
-
-- **Better Error Handling**: Add more robust error handling to manage image quality issues (e.g., skewed text, low resolution) and parsing errors.
-
-- **Custom Fields**: Implement support for more custom fields and more complex invoice layouts.
-
----
-
 ## Contact Information
 
-If you have any questions or suggestions regarding this project, feel free to reach out to me at [Your Contact Information].
+If you have any questions or suggestions regarding this project, feel free to reach out to me at mohammedmanalodi@gmail.com.
 
 ---
 
-This version of the README file provides more context, detailed instructions, and clarifies how the project works, as well as its possible future improvements. Feel free to adapt it further based on your needs!
